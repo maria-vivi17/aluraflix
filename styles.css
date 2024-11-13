@@ -5,3 +5,17 @@ body {
     font-family: "Bebas Neue", sans-serif;
     margin-bottom: 100px;
 }
+
+header {
+   border-bottom: solid 2px rgb(60, 30, 196)
+   padding: 20px;
+   font-size: 32px; 
+   color: black; 
+}
+
+
+
+
+
+
+
