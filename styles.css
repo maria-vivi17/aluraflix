@@ -21,6 +21,10 @@ header {
    justify-content: center;
 }
 
+. chamada-texto {
+     margin-right: 5%;
+}
 
-
-
+h1 {
+    font-size: 40px;
+}
